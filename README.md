@@ -5,7 +5,7 @@ This userscript lets you rig the Google coin flip to always land as you choose, 
 ![:tf:](trollface.png)
 
 ## Demo
-![Demo Screenshot](demo.png)
+![Demo Screenshot](demo.PNG)
 
 ## Features
 - Toggle between always HEADS or TAILS (By Default it's HEADS only at first, though not on the automatic initial page load flip)
