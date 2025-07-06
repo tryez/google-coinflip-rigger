@@ -20,5 +20,9 @@ This userscript lets you rig the Google coin flip to always land as you choose, 
 6. You can go back to normal mode by hovering over the share icon on the top right of the coin container.
 
 
+## How it works
+Basically it hijacks the Math.random function only when the "flip" method inside google web page is called and rigs it, after the flip method finishes the execution, Math.random returns to it's old reference to not mess with anything else that might be using it.
+
+
 ## License
 MIT
