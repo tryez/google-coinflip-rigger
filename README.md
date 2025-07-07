@@ -2,10 +2,10 @@
 
 This userscript lets you rig the Google coin flip to always land as you choose, just to mess with your friends.
 
-![:tf:](trollface.png)
+![:tf:](images/trollface.png)
 
 ## Demo
-![Demo Screenshot](demo.PNG)
+![Demo Screenshot](images/demo.PNG)
 
 ## Features
 - Toggle between always HEADS or TAILS (By Default it's HEADS only at first, though not on the automatic initial page load flip)
